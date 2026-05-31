@@ -5,7 +5,7 @@
 ## Viewing This Project
 The Jupyter notebook contains embedded output and visualizations, which makes it too large to render directly on GitHub. For the best experience:
 * 📄 **[View the PDF](CMSC426_Assignment1_sp26.pdf)** — recommended for a quick look at the code and results
-* VIEW 
+* 📓 **[View the rendered HTML notebook](https://arikgershman.github.io/image-colorization-cv/CMSC426_Assignment1_sp26.html)** — for viewing the code and outputs
 * 💾 Download the `.ipynb` file to run it locally
 
 ## Project Overview
